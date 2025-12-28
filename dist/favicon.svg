@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="140 133.5 245 245" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="vk_gradient" x1="128" y1="128" x2="384" y2="384" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#0066FF"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M140 140 L256 372 L372 140 H324 L256 276 L188 140 H140Z" fill="url(#vk_gradient)"/>
+
+  <path d="M218 155 H294 L256 230 Z" fill="url(#vk_gradient)"/>
+
+  <path d="M305 300 L345 372 H385 L345 300 Z" fill="url(#vk_gradient)"/>
+</svg>
